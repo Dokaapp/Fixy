@@ -1,5 +1,7 @@
 // agosto 6 de 2024
 // agosto 23 de 2024
+console.log("archivo index.js")
+
 
 import { upsertCliente } from '../funciones/upsertCliente.js';
 import { upsertOrden } from '../funciones/upserOrden.js';
